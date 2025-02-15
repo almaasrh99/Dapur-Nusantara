@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an e-commerce website that sells ingredients for F&B entrepreneurs who need to supply raw materials for their business needs. In addition, it is also used for the purposes of self-input ordering brands that are in the company's holding.
+
+Which tech stack using Next Js 14.
 
 ## Getting Started
 
